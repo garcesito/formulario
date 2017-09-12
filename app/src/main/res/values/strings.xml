@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">formulario</string>
+    <string name="Formulario">Formulario</string>
+    <string name="loggin">Loggin</string>
+    <string name="password">Password</string>
+    <string name="repetir_password">Repetir Password</string>
+    <string name="correo">Correo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="sexo">Sexo:</string>
+    <string name="nacimiento">Fecha de nacimiento:</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="fecha">Dia/Mes/Año</string>
+    <string name="ciudad">Lugar de nacimiento</string>
+    <string name="anime">Anime</string>
+    <string name="videojuegos">Games</string>
+    <string name="deporte">Deporte</string>
+    <string name="dibujar">Dibujar</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="informacion">Informacion:</string>
+    <string name="informacion2">Informacion:</string>
+    <string-array name="ciudades">
+        <item>Bogotá</item>
+        <item>Medellín</item>
+        <item>Barranquilla</item>
+        <item>Cali</item>
+        <item>Cúcuta</item>
+        <item>Bucaramanga</item>
+        <item>Ibagué</item>
+        <item>Soacha</item>
+        <item>otra</item>
+    </string-array>
+</resources>
